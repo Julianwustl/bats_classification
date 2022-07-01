@@ -1,0 +1,12 @@
+.
+/bats
+/Bat*
+/LMU*
+/tb_logs
+/csv_logs
+/__
+/__*
+*oxP*
+audio_*
+
+ckpt_*
